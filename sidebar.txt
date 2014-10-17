@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tcg:home|Door43 (tcg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tcg|d43-tcg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tcg/archive/master.zip|d43-tcg.zip]]
+
+**Recent Changes**
+{{changes>ns = tcg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tcg|Ethnologue data]]
+
